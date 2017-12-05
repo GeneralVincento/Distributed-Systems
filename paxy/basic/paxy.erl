@@ -60,4 +60,4 @@ stop(Name) ->
             Pid ! stop
     end.
 
- 
+ % How to run: paxy:start([1,1,1]).
